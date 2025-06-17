@@ -21,3 +21,5 @@ Headings: Circular, Bold (700), 24px-32px
 Secondary Text: Circular, Book (400), 14px
 
 Project Roles and Responsibilities
+
+UI Component Patterns
