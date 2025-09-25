@@ -1,7 +1,7 @@
-## Project: Airbnb Clone
+# Project: Airbnb Clone
 Project Goals: To create a functional, full-stack web application that mirrors the popular accommodation booking platform, Airbnb. The application will allow users to browse property listings, view detailed information, and complete bookings.
 
-# Tech Stack:
+## Tech Stack:
 
 Frontend: HTML, CSS, JavaScript (React)
 
@@ -9,7 +9,7 @@ Version Control: Git and GitHub
 
 Design Tools: Figma for UI/UX design
 
-# UI/UX Design Planning
+## UI/UX Design Planning
 Our design goals for this project are to create an intuitive booking flow, maintain visual consistency, ensure fast loading times, and prioritize a mobile-first, responsive design. The key features will include property search and filtering, detailed property viewing, a secure checkout process, and user authentication.
 
 Primary Pages
@@ -24,7 +24,7 @@ A well-designed booking system is crucial because it directly impacts user satis
 Figma Design Specifications
 From the Figma mock-ups, we've identified the core design properties to ensure visual consistency across the application.
 
-# Color Styles:
+## Color Styles:
 Primary: #FF5A5F
 
 Secondary: #008489
@@ -44,7 +44,7 @@ Secondary Text: Circular, Book (400), 14px
 
 Identifying these specific design properties from a mock-up is vital for a few reasons. First, it ensures that all developers and designers are working with the same visual language, preventing inconsistencies. It also allows for the creation of a reusable design system, which makes future development faster and more scalable. By having a clear reference for colors, fonts, and spacing, we can ensure the final product looks and feels exactly as intended by the designers.
 
-# Project Roles and Responsibilities
+## Project Roles and Responsibilities
 Our team is structured to ensure a smooth and efficient development process. Each role has distinct responsibilities that contribute to the project's success.
 
 Project Manager: Oversees the project timeline, coordinates team activities, and manages deliverables to ensure we meet all deadlines.
